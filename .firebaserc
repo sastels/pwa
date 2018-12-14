@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "pwa-test-31444"
+    "staging": "pwa-test-31444",
+    "default": "pwa-test-31444"
   }
 }
